@@ -1,1 +1,1 @@
-Your NFT Contract Address: 0x4fE07Bbba736a930A72765764FE714bE1DC5771c                                         
+NFT Contract Address: 0x4fE07Bbba736a930A72765764FE714bE1DC5771c                                         
