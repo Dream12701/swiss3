@@ -1,13 +1,10 @@
-# Sample Hardhat Project
+# MINT ERC721
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+DEPLOY AND MINT
 
-Try running some of the following tasks:
+https://github.com/Dream12701/swiss3/blob/main/nftcontract_adress.txt
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+https://github.com/Dream12701/swiss3/blob/main/mint_txhash.txt
+
+
+Thank you
